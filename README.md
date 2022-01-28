@@ -1,9 +1,9 @@
 # Diabetes Detector - Deployment
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.8.5](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
-Project Link (GitHub repository URL): https://github.com/ManishKumarSahay/Diabetes-Detector-Project-Final
+Project Link (GitHub repository URL): https://github.com/ManishKumarSahay/Diabetes-Detector-FRT
 
-Project Demo URL: https://diabetesdetectorprojectfinal.azurewebsites.net
+Project Demo URL: https://diabetesdetectorfrt.azurewebsites.net
 
 Demonstrating Video URL: https://youtu.be/1aRVhhuHWP0
 
