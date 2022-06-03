@@ -3,7 +3,7 @@
 
 Project Link (GitHub repository URL): https://github.com/ManishKumarSahay/Diabetes-Detector-FRT
 
-Project Demo URL: https://diabetesdetectorfrt.azurewebsites.net
+Project Demo URL: [https://diabetesdetectorfrt.azurewebsites.net](https://diabetesdetectorfrt.azurewebsites.net/)
 
 Demonstrating Video URL: https://youtu.be/1aRVhhuHWP0
 
